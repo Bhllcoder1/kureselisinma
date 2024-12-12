@@ -1,0 +1,12 @@
+import React from 'react';
+
+function Contact() {
+  return (
+    <div className="contact">
+      <h1>İletişim</h1>
+      <p>Bize ulaşmak için aşağıdaki formu doldurun.</p>
+    </div>
+  );
+}
+
+export default Contact;
