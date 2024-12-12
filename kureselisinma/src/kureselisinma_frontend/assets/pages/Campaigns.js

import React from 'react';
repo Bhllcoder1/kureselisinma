@@ -1,0 +1,12 @@
+import React from 'react';
+
+function Campaigns() {
+  return (
+    <div className="campaigns">
+      <h1>Bağış Kampanyaları</h1>
+      <p>Devam eden kampanyalarımızla siz de destek olabilirsiniz.</p>
+    </div>
+  );
+}
+
+export default Campaigns;
