@@ -1,0 +1,12 @@
+import React from 'react';
+
+function About() {
+  return (
+    <div className="about">
+      <h1>Hakkımızda</h1>
+      <p>Anonim Yardımlaşma Merkezi (AYM), ihtiyaç sahiplerine ulaşarak hayatlarını değiştirmeyi amaçlayan bir hayır kurumudur.</p>
+    </div>
+  );
+}
+
+export default About;
