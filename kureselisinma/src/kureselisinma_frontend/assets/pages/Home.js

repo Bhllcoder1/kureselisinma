@@ -1,0 +1,15 @@
+import React from 'react';
+
+function Home() {
+  return (
+    <div className="home">
+      <section className="hero">
+        <h1>Yardıma İhtiyacı Olanlar İçin Bir Işık Yakın</h1>
+        <p>Anonim Yardımlaşma Merkezi olarak mağdur insanlara umut olun.</p>
+        <button>Bağış Yap</button>
+      </section>
+    </div>
+  );
+}
+
+export default Home;
