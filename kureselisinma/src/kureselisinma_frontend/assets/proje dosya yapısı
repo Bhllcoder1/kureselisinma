@@ -1,0 +1,17 @@
+laym-frontend/
+├── public/
+│   ├── index.html
+├── src/
+│   ├── components/
+│   │   ├── Navbar.js
+│   │   ├── Footer.js
+│   ├── pages/
+│   │   ├── Home.js
+│   │   ├── About.js
+│   │   ├── Campaigns.js
+│   │   ├── Contact.js
+│   ├── App.js
+│   ├── index.js
+├── .gitignore
+├── package.json
+├── README.md
